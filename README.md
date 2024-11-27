@@ -1,4 +1,4 @@
-# 🗺 Tyler's Portfolio
+# 🗺 Tyler Beck's Portfolio
 
 ## 📚 Table of Contents
 - [Python](#python)
